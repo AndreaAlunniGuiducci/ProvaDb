@@ -2,10 +2,8 @@
   "guests": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "",
+      "phone": ""
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
