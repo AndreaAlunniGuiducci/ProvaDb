@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "name",
-      "phone": 1,
+      "phone": 123,
       "confirm": true
     }
   ],
